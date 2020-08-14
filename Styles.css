@@ -1,0 +1,20 @@
+.Head {
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    border: 2px blue solid;
+    width: 90px;
+    
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding-left: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
